@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Active Road Sign Configure</string>
+    <string name="_00">00</string>
+    <string name="status">Status</string>
+    <string name="textview">TextView</string>
+</resources>
